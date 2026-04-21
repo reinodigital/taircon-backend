@@ -20,7 +20,7 @@ export class MailerService {
 
       const mailOptions = {
         from: `Taircon Contractor <${process.env.EMAIL_USERNAME}>`, // Sender address
-        to: process.env.EMAIL_USERNAME, // List of recipients
+        to: 'cesar@tairconcontractor.com', // List of recipients
         subject: subject, // Subject line
         html: body,
       };

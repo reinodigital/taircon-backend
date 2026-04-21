@@ -1,0 +1,386 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "contact": "Contact",
+    "getQuote": "Request a Quote",
+    "toggle": "Menu",
+    "logoAlt": "Taircon Contractor"
+  },
+  "footer": {
+    "tagline": "Trusted construction and air conditioning in Florida",
+    "navigation": "Navigation",
+    "contact": "Contact",
+    "hours": "Hours",
+    "monFri": "Mon – Fri: 8am – 5pm",
+    "sat": "Sat: 8am – 12pm",
+    "sun": "Sun: Emergency service available",
+    "rights": "All rights reserved.",
+    "logoAlt": "Taircon Contractor",
+    "facebook": "Facebook",
+    "instagram": "Instagram Taircon",
+    "linkedin": "LinkedIn",
+    "addressVal": "21480 SW 286th St Homestead FL 33030",
+    "phoneNote": "Construction · A/C · WhatsApp",
+    "copyright": "© 2025 Taircon Contractor LLC.",
+    "licenses": "CMC Licensed · CGC Licensed"
+  },
+  "home": {
+    "hero": {
+      "badge": "Licensed · Bonded · Insured",
+      "title": "The future is built today.",
+      "subtitle": "General contractors with CMC and CGC licenses. Specialists in commercial construction, residential, and air conditioning in Florida.",
+      "cta": "View Services",
+      "services": "Contact Us",
+      "licCmc": "CMC",
+      "licCmcName": "Certified Mechanical Contractor",
+      "licCmcSub": "HVAC · Air Conditioning",
+      "licCgc": "CGC",
+      "licCgcName": "Certified General Contractor",
+      "licCgcSub": "Commercial & Residential Construction",
+      "stat1": "10+",
+      "stat2": "200+",
+      "stat3": "2",
+      "stat4": "100%"
+    },
+    "about": {
+      "badge": "Who We Are",
+      "title": "Your all-in-one partner in construction and HVAC",
+      "description": "Taircon Contractor is a fully licensed and insured construction company serving residential and commercial clients throughout Florida. With over 10 years of experience, we hold both the Certified Mechanical Contractor (CMC) and Certified General Contractor (CGC) licenses.",
+      "description2": "From new construction to complete HVAC installations, our team is committed to quality, timeliness, and transparent communication from start to finish. We treat every project as if it were our own.",
+      "years": "Years of experience",
+      "projects": "Completed projects",
+      "licenses": "State licenses",
+      "satisfaction": "Satisfaction guaranteed",
+      "more": "More about us",
+      "imgAlt": "Construction team at work"
+    },
+    "services": {
+      "badge": "What we do",
+      "title": "Complete Construction Solutions",
+      "subtitle": "Comprehensive services with CGC and CMC licenses for residential and commercial projects in Florida",
+      "commercial": "Commercial Construction",
+      "commercialDesc": "Offices, retail spaces, and buildings. Full project management with building code compliance.",
+      "residential": "Residential Construction",
+      "residentialDesc": "Single-family and multi-family homes with quality materials and flawless finishes.",
+      "renovation": "Renovations",
+      "renovationDesc": "Kitchens, bathrooms, additions, and complete structural renovations.",
+      "acCommercial": "Commercial A/C",
+      "acCommercialDesc": "Installation and maintenance of HVAC systems. We optimize your energy efficiency.",
+      "acResidential": "Residential A/C",
+      "acResidentialDesc": "Residential air conditioning systems. Year-round comfort guaranteed.",
+      "permits": "Permits & Licenses",
+      "permitsDesc": "We handle all permits. Experience with Florida local and state regulations.",
+      "plans": "Plans & Designs",
+      "plansDesc": "We create custom plans and designs tailored to each project. Complete technical drawings for construction, renovations, and permits, complying with the Florida Building Code and local regulations. From initial concepts to permit-ready plans, we cover the entire process with precision and professionalism.",
+      "learnMore": "Learn more",
+      "all": "View all services"
+    },
+    "licenses": {
+      "badge": "Certifications",
+      "title": "Our Licenses",
+      "cmc": "Certified Mechanical Contractor",
+      "cmcItems": [
+        "Central A/C systems",
+        "Commercial and industrial HVAC",
+        "Ventilation and extraction",
+        "Preventive maintenance"
+      ],
+      "cgc": "Certified General Contractor",
+      "cgcItems": [
+        "New commercial construction",
+        "Residential construction",
+        "Renovations and additions",
+        "Subcontractor management"
+      ]
+    },
+    "ac": {
+      "badge": "Professional HVAC · CMC License",
+      "title": "Residential and Commercial Air Conditioning",
+      "subtitle": "HVAC-licensed company (CMC) with reliable and efficient solutions throughout Florida.",
+      "description": "We are a certified air conditioning and refrigeration company with a CMC license in Florida. We specialize in the installation, service, repair, and maintenance of climate control systems for homes, offices, and commercial properties.",
+      "description2": "All our work complies with the Florida Mechanical Code and local regulations, ensuring safety, energy efficiency, and durability.",
+      "feature1": "Certified Installation (CMC)",
+      "feature1Desc": "New systems installed according to the Florida Mechanical Code.",
+      "feature2": "Fast Repairs",
+      "feature2Desc": "Efficient diagnosis and repair of any system failure.",
+      "feature3": "Preventive Maintenance",
+      "feature3Desc": "Periodic plans that ensure energy efficiency and long service life.",
+      "feature4": "Ducts & Cleaning",
+      "feature4Desc": "Professional installation, modification, and cleaning of ductwork.",
+      "cta": "Schedule Service",
+      "whatsapp": "WhatsApp",
+      "imgAlt": "Air conditioning technician at work",
+      "badgeText": "HVAC Licensed"
+    },
+    "why": {
+      "badge": "Why choose us?",
+      "title": "Committed to excellence",
+      "experience": "Licensed and Insured",
+      "experienceDesc": "Over 10 years with CMC and CGC licenses in construction and HVAC in Florida.",
+      "quality": "Premium Materials & Equipment",
+      "qualityDesc": "We use only the best construction materials and climate control equipment.",
+      "timing": "On-Time Delivery",
+      "timingDesc": "We deliver every project on time, no excuses.",
+      "support": "Personalized Service",
+      "supportDesc": "We guide you every step of the way: from planning to final delivery.",
+      "imgAlt": "Quality construction",
+      "badgeNum": "A+",
+      "badgeText": "Rated Contractor"
+    },
+    "projects": {
+      "badge": "Our work",
+      "title": "Recent Projects",
+      "subtitle": "A sample of our recent work.",
+      "kitchen": "Kitchen Remodel",
+      "bathroom": "Bathroom Remodel",
+      "commercial": "Commercial Space",
+      "view": "View project",
+      "catResidential": "Residential",
+      "catCommercial": "Commercial",
+      "catAC": "HVAC",
+      "altKitchen": "Kitchen remodel",
+      "altBathroom": "Bathroom remodel",
+      "altCommercial": "Commercial space",
+      "acInstall": "Air Conditioning Installation",
+      "altAcInstall": "Air conditioning installation",
+      "newBuild": "New Construction",
+      "altNewBuild": "New construction"
+    },
+    "testimonials": {
+      "badge": "Testimonials",
+      "title": "What our clients say",
+      "subtitle": "We build lasting relationships based on trust and exceptional results"
+    },
+    "partners": {
+      "badge": "They trust us",
+      "title": "Companies that trust us"
+    },
+    "cta": {
+      "title": "Ready to transform your space?",
+      "subtitle": "Contact us today and get a free, no-obligation quote for construction or air conditioning",
+      "button": "Request a Free Quote",
+      "eyebrow": "Have a project in mind?"
+    }
+  },
+  "about": {
+    "hero": {
+      "badge": "Who We Are",
+      "title": "Taircon Contractor",
+      "subtitle": "Licensed (CMC & CGC) and insured company, specialized in construction and air conditioning in Florida."
+    },
+    "story": {
+      "badge": "Our Story",
+      "title": "From a vision to hundreds of projects",
+      "p1": "Taircon Contractor is a fully licensed and insured construction company serving residential and commercial clients throughout Florida. With over 10 years of experience, we hold both the Certified Mechanical Contractor (<strong>CMC</strong>) and Certified General Contractor (<strong>CGC</strong>) licenses, allowing us to handle every aspect of your project under one roof.",
+      "p2": "From new construction to complete HVAC installations, our team is committed to quality workmanship, on-time delivery, and transparent communication from start to finish. We treat every project as if it were our own.",
+      "imgAlt": "Our story",
+      "stat1": "10+",
+      "stat2": "200+",
+      "stat3": "2",
+      "years": "Years of experience",
+      "projects": "Completed projects",
+      "licenses": "State licenses"
+    },
+    "values": {
+      "badge": "Our Values",
+      "title": "What defines us",
+      "subtitle": "Principles that guide every decision, every build, and every A/C installation we undertake",
+      "excellence": "Excellence",
+      "excellenceDesc": "Every project — construction or HVAC — reflects our highest quality standards.",
+      "trust": "Trust",
+      "trustDesc": "Long-lasting relationships built on honesty, transparency, and straightforward advice.",
+      "efficiency": "Efficiency",
+      "efficiencyDesc": "Low-consumption A/C systems and energy-efficient builds to save on your utility bills.",
+      "punctuality": "Punctuality",
+      "punctualityDesc": "We deliver every project on the agreed date, whether a renovation or an HVAC installation.",
+      "innovation": "Innovation",
+      "innovationDesc": "We adopt the latest construction techniques and the most modern climate control equipment on the market.",
+      "compliance": "Compliance",
+      "complianceDesc": "All our work complies with the Florida Mechanical Code and current local regulations."
+    },
+    "timeline": {
+      "badge": "Our Journey",
+      "title": "Milestones we're proud of",
+      "e2014": "Taircon Contractor founded in Miami, FL with CGC license.",
+      "e2017": "Obtained CMC license — expansion into HVAC and air conditioning services.",
+      "e2019": "First large-scale commercial project in South Florida.",
+      "e2021": "Over 100 projects completed across construction and HVAC.",
+      "e2023": "Service expansion: commercial build-outs and industrial HVAC systems.",
+      "e2024": "Over 200 projects completed. Recognized by clients across Florida."
+    },
+    "team": {
+      "imgAlt": "Taircon Contractor team",
+      "title": "A team committed to your project",
+      "desc": "Certified professionals (CMC & CGC) in construction and HVAC, passionate about excellence in every job.",
+      "cta": "Work with us"
+    }
+  },
+  "contact": {
+    "hero": {
+      "badge": "Contact",
+      "title": "Let's talk about your project",
+      "subtitle": "We're ready to listen. Tell us your idea and we'll give you a free quote."
+    },
+    "info": {
+      "title": "Contact Information",
+      "sub": "Multiple ways to reach us",
+      "address": "Address",
+      "addressVal": "21480 SW 286th St Homestead FL 33030",
+      "phone": "Phone / WhatsApp",
+      "email": "Email",
+      "hours": "Hours",
+      "monFri": "Mon–Fri: 8am – 5pm",
+      "sat": "Sat: 8am – 12pm"
+    },
+    "social": {
+      "facebook": "Facebook",
+      "instagram": "Instagram",
+      "linkedin": "LinkedIn"
+    },
+    "success": {
+      "title": "Message sent!",
+      "desc": "Thank you for contacting us. We'll get back to you within 24 hours.",
+      "again": "Send another message"
+    },
+    "form": {
+      "title": "Request your free quote",
+      "name": "Full name *",
+      "namePlaceholder": "John Smith",
+      "email": "Email address *",
+      "emailPlaceholder": "john@email.com",
+      "phone": "Phone",
+      "phonePlaceholder": "+1 (305) 000-0000",
+      "service": "Service of interest",
+      "serviceDefault": "Select a service",
+      "message": "Tell us about your project *",
+      "messagePlaceholder": "Briefly describe your project, dimensions, materials, or any relevant details...",
+      "sending": "Sending...",
+      "submit": "Submit Request →"
+    },
+    "map": "Miami, Florida — Serving all of South Florida",
+    "services": {
+      "commercialCgc": "Commercial Construction (CGC)",
+      "residentialCgc": "Residential Construction (CGC)",
+      "renovation": "Renovations",
+      "buildOut": "Commercial Build-Out",
+      "acInstall": "A/C Installation (CMC)",
+      "acRepair": "A/C Repair (CMC)",
+      "acMaintenance": "Preventive A/C Maintenance",
+      "permits": "Permits & Licenses",
+      "other": "Other"
+    }
+  },
+  "ourServices": {
+    "hero": {
+      "badge": "What we do",
+      "title": "Construction & Air Conditioning",
+      "subtitle": "Comprehensive construction and HVAC solutions for residential and commercial projects in Miami and South Florida."
+    },
+    "construction": {
+      "badge": "Construction",
+      "title": "Construction Services",
+      "subtitle": "Comprehensive solutions for residential and commercial projects in South Florida",
+      "cta": "Request a quote",
+      "s1": {
+        "title": "General Construction (CGC)",
+        "desc": "We build and renovate commercial and residential properties to the highest standards. From ground-up construction to structural renovations, we manage every phase of your project.",
+        "f1": "Residential construction",
+        "f2": "Commercial construction",
+        "f3": "Full project oversight",
+        "f4": "Florida code compliance"
+      },
+      "s2": {
+        "title": "Commercial Build-Outs",
+        "desc": "Offices, retail spaces, warehouses, and more. We transform empty spaces into fully functional, code-compliant environments.",
+        "f1": "Offices and coworking spaces",
+        "f2": "Retail stores and restaurants",
+        "f3": "Warehouses and industrial",
+        "f4": "Custom finishes"
+      },
+      "s3": {
+        "title": "Residential Renovations",
+        "desc": "Kitchens, bathrooms, additions, and complete renovations. We bring your vision to life with quality materials and expert craftsmanship.",
+        "f1": "Kitchens and bathrooms",
+        "f2": "Additions and expansions",
+        "f3": "Full remodels",
+        "f4": "Premium materials"
+      },
+      "s4": {
+        "title": "Plans & Designs",
+        "desc": "We offer custom plan and design services tailored to each project. We develop complete technical drawings for construction, renovations, and permits, complying with the Florida Building Code and local regulations. From initial concepts to permit-ready plans, we handle the entire process with precision and professionalism.",
+        "f1": "Plans for residential and commercial projects",
+        "f2": "Florida Building Code compliance",
+        "f3": "Functional, modern, and efficient designs",
+        "f4": "Permit-ready plans"
+      },
+      "s5": {
+        "title": "Permits & Inspections",
+        "desc": "We handle all permits and coordinate inspections so you don't have to worry about paperwork or code compliance.",
+        "f1": "Permit management",
+        "f2": "Inspection coordination",
+        "f3": "Local code compliance",
+        "f4": "Experience with Florida regulations"
+      }
+    },
+    "hvac": {
+      "badge": "HVAC",
+      "title": "Air Conditioning Services",
+      "subtitle": "HVAC-licensed company — installation, repair, and maintenance in South Florida",
+      "cta": "Request service",
+      "compliance": "All our air conditioning services comply with the <strong>Florida Mechanical Code</strong> and current local regulations. Licensed and insured company.",
+      "s1": {
+        "title": "Air Conditioning & HVAC (CMC)",
+        "desc": "Installation, replacement, and maintenance of residential and commercial A/C systems. We work with all major brands and optimize energy efficiency.",
+        "f1": "New system installation",
+        "f2": "Equipment replacement",
+        "f3": "All major brands",
+        "f4": "Energy optimization"
+      },
+      "s2": {
+        "title": "Commercial A/C",
+        "desc": "Climate control solutions for businesses: rooftop units, commercial split systems, and maintenance contracts. CMC license in Florida.",
+        "f1": "Rooftop units",
+        "f2": "Commercial split systems",
+        "f3": "Maintenance contracts",
+        "f4": "HVAC for hotels and offices"
+      },
+      "s3": {
+        "title": "A/C Repairs",
+        "desc": "Fast diagnosis and repair of any failure in your residential or commercial climate control system. Emergency service available.",
+        "f1": "Professional diagnosis",
+        "f2": "Compressor repair",
+        "f3": "Refrigerant recharge",
+        "f4": "Emergency service"
+      },
+      "s4": {
+        "title": "Preventive Maintenance",
+        "desc": "Periodic maintenance plans to extend the life of your system and ensure energy efficiency all year round.",
+        "f1": "Filter and coil cleaning",
+        "f2": "Refrigerant check",
+        "f3": "Electrical inspection",
+        "f4": "Detailed report"
+      }
+    },
+    "process": {
+      "badge": "Our Process",
+      "title": "How we work",
+      "subtitle": "A clear and transparent process from the first meeting to final delivery",
+      "step1Title": "Initial Consultation",
+      "step1Desc": "We analyze your project and needs at no cost.",
+      "step2Title": "Proposal",
+      "step2Desc": "We deliver plans, materials, and a detailed budget.",
+      "step3Title": "Execution",
+      "step3Desc": "Our team works with precision and punctuality.",
+      "step4Title": "Delivery",
+      "step4Desc": "Final walkthrough with you and written warranty."
+    },
+    "cta": {
+      "title": "Need construction or air conditioning?",
+      "subtitle": "Contact us and get a free, no-obligation quote. CMC and CGC licenses in Florida. Also available via WhatsApp: (786) 985-4440",
+      "button": "Request a Free Quote",
+      "whatsapp": "WhatsApp A/C"
+    }
+  }
+}
